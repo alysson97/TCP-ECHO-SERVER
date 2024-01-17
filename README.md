@@ -79,10 +79,4 @@ your_project_name/
    ./build/client
    ```
 
-## Usage
-
-Explain how to use your server and client. Include any relevant information regarding input, output, or any additional steps needed.
-
-
-
 ```
